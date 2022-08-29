@@ -1,5 +1,5 @@
 #code for sonarqube analysis
 
 mvn sonar:sonar \
-  -Dsonar.host.url=http://34.203.232.166:9000 \
-  -Dsonar.login=bb8b5440f4ed2a53cb663b5506ec1e52dbf4fb32
+  -Dsonar.host.url=http://52.91.36.190:9000 \
+  -Dsonar.login=d70e8dd3f551597c8a0dc60dc8ff42f57047d395
