@@ -1,6 +1,6 @@
 projectKey=in.javahome:myweb
-serverUrl=http://52.91.36.190:9000/
+serverUrl=http://18.234.117.25:9000/
 serverVersion=7.7.0.23042
-dashboardUrl=http://34.238.131.28:9000/dashboard?id=in.javahome%3Amyweb
+dashboardUrl=http://18.234.117.25:9000/dashboard?id=in.javahome%3Amyweb
 ceTaskId=d70e8dd3f551597c8a0dc60dc8ff42f57047d395
-ceTaskUrl=http://34.238.131.28:9000/api/ce/task?id=d70e8dd3f551597c8a0dc60dc8ff42f57047d395
+ceTaskUrl=http://18.234.117.25:9000/api/ce/task?id=d70e8dd3f551597c8a0dc60dc8ff42f57047d395
